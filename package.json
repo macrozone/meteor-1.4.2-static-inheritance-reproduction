@@ -16,17 +16,17 @@
     "eslint-plugin-vazco": "^1.0.0",
     "invariant": "^2.2.1",
     "meteor-node-stubs": "^0.2.3",
-    "react": "^15.0.0 || ^0.14.0",
+    "react": "^15.3.2",
     "react-dom": "^15.0.0 || ^0.14.0",
     "react-frame-component": "^0.6.6",
     "react-mounter": "^1.2.0",
     "react-panelgroup": "^1.0.1",
     "simpl-schema": "0.0.3",
-    "uniforms": "file:../packages/uniforms",
-    "uniforms-bootstrap3": "file:../packages/uniforms-bootstrap3",
-    "uniforms-bootstrap4": "file:../packages/uniforms-bootstrap4",
-    "uniforms-semantic": "file:../packages/uniforms-semantic",
-    "uniforms-unstyled": "file:../packages/uniforms-unstyled"
+    "uniforms": "^1.3.0",
+    "uniforms-bootstrap3": "^1.3.0",
+    "uniforms-bootstrap4": "^1.3.0",
+    "uniforms-semantic": "^1.3.0",
+    "uniforms-unstyled": "^1.3.0"
   },
   "eslintConfig": {
     "root": true,
