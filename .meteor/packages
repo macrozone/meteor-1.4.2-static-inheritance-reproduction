@@ -1,0 +1,8 @@
+ecmascript
+es5-shim
+kadira:dochead
+kadira:flow-router-ssr
+meteor-base
+mobile-experience
+standard-minifier-css
+standard-minifier-js
